@@ -8,4 +8,5 @@ Estrutura do Fluxo Conversacional (Formato ISO CapacitaMDT): Sofia
 <b> Fluxo Conversacional Versão 1:</b><br>
 https://miro.com/app/board/uXjVOIgnjWE=/?invite_link_id=988807329222
 
-<b>Link do Robô</b>
+<b>Link do Robô:</b>
+https://eduardo-de-proft-cardoso-4dvvl.chat.blip.ai/?appKey=cGl6emFyaWFhZXNwZXJhbmNhOjY5NjhmMDRhLTRhNDUtNDg2Zi1iMzc2LThmZDY5YWFkNDljMw==
